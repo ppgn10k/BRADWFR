@@ -1,4 +1,4 @@
-# 💻 Disciplina de Desenvolvimento Front-End
+# 💻 Disciplina de Desenvolvimento Web Front-End
 
 Este repositório foi criado para armazenar todos os projetos, desafios e exercícios práticos desenvolvidos durante a disciplina de **Desenvolvimento Web Front-End** no curso de Análise e Desenvolvimento de Sistemas no IFSP.
 
