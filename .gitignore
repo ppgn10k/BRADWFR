@@ -1,0 +1,32 @@
+text
+# Dependências (pastas muito pesadas que não devem subir)
+node_modules/
+/.pnp
+.pnp.js
+
+# Testes e cobertura
+/coverage
+
+# Produção / build final
+/build
+
+# Arquivos locais e variáveis de ambiente (senhas/chaves)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs do sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configurações do editor (VS Code, etc)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
