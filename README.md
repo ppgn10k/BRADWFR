@@ -2,8 +2,6 @@
 
 Este repositório foi criado para armazenar todos os projetos, desafios e exercícios práticos desenvolvidos durante a disciplina de **Desenvolvimento Web Front-End** no curso de Análise e Desenvolvimento de Sistemas no IFSP.
 
-O objetivo principal desta cadeira é compreender a estrutura, estilização e o comportamento dinâmico de aplicações web modernas no ecossistema do cliente (client-side).
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -12,7 +10,7 @@ Durante as aulas e trabalhos, utilizamos as seguintes tecnologias e ferramentas:
 
 *   **HTML:** Estruturação semântica de páginas web.
 *   **CSS:** Estilização, layouts responsivos (Flexbox/Grid) e animações.
-*   **JavaScript (ES6+):** Manipulação do DOM, eventos e consumo de APIs.
+*   **JavaScript:** Manipulação do DOM, eventos e consumo de APIs.
 # 💻 Disciplina de Desenvolvimento Web Front-End
 
 ---
@@ -47,7 +45,6 @@ Desenvolvido por **Maria Gabriela Lopes dos Santos** 👋
 
 ---
 
-## 👨‍💻 Autor
 
 Desenvolvido por **Maria Gabriela Lopes dos Santos** 👋
 *   LinkedIn:
